@@ -7,7 +7,7 @@ public class GitTest {
 		System.out.println("Add new message2.");
 		System.out.println("Add new message3.");
 		System.out.println("Add new message4.");
-
+		System.out.println("Added from new clone and workspace and user.");
 	}
 
 }
