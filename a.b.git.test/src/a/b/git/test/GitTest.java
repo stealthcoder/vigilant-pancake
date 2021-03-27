@@ -15,6 +15,15 @@ public class GitTest {
 		System.out.println("Added from new clone and workspace and user.");
 		System.out.println("default git user");
 		System.out.println("show data");
+		method1();
 	}
 
+	private static void method1() {
+		System.out.println("m1");
+		System.out.println("m1.1");		
+		System.out.println("m1.2");
+	}
+	
+
 }
+
