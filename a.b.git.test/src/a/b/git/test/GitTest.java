@@ -14,6 +14,7 @@ public class GitTest {
 		System.out.println("Add new message8.");
 		System.out.println("Added from new clone and workspace and user.");
 		System.out.println("default git user");
+		System.out.println("show data");
 	}
 
 }
