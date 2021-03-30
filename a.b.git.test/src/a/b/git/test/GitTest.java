@@ -25,6 +25,7 @@ public class GitTest {
 		System.out.println("m1.3");
 		System.out.println("m1.4");
 		System.out.println("m1.5");
+		System.out.println("m1.6");
 	}
 	
 
